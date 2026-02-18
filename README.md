@@ -21,6 +21,6 @@ O projeto foi criado para facilitar pesquisas de **hashtags** e **descrições S
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seuusuario/Social-Search-Prompt.git
+git clone https://github.com/aceleradox/Social-Search-Prompt.git
 cd Social-Search-Prompt
 pip install ddgs
